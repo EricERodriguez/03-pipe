@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
-<img aling="center" src="./src/assets/img.png" width="150" height=""  style="max-width-100%;" >
+<img aling="center" src="./src/assets/img.png" width="730" height=""  style="max-width-100%;" >
 
 ## Development server
 
